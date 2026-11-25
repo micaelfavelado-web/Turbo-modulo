@@ -1,5 +1,5 @@
 name: Compilar APK
-on: push..
+on[push]
  branchis.. [main]
  jobs..
  biuld..
